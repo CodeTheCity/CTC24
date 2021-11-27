@@ -17,4 +17,4 @@ We had three teams working on a range of topics. All of them were continuations 
 [Waste Wizards](https://github.com/CodeTheCity/ctc21_waste_wizards) was started at CTC21, and has continued regularly since then.
 
 ### Scottish Representation in Wikidata
-[Government agencies in Scotland](https://www.wikidata.org/wiki/Wikidata:WikiProject_Govdirectory/United_Kingdom#Agencies_in_Scotland_%28Q22%29) is being further completed by a few people this weekend.
+[Government agencies in Scotland](https://www.wikidata.org/wiki/Wikidata:WikiProject_Govdirectory/United_Kingdom#Agencies_in_Scotland_%28Q22%29) as part of the [GovDirectory](https://github.com/govdirectory) project is being worked on by a few people this weekend.
