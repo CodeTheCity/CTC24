@@ -11,7 +11,7 @@ We used Slack and our Code the City workgroup as the back channel between rooms,
 We had three teams working on a range of topics. All of them were continuations of previous projects.
 
 ### The Open Data Catalogue of Scottish Local Authorities
-[The OD Bods](https://github.com/CodeTheCity/the_od_bods) was started at CTC23 and picked up further at SODU2021, and continues now as an opportunity for the team to work together. You can see their progress at https://opendatascotland.github.io/the_od_bods/
+[The OD Bods](https://github.com/CodeTheCity/the_od_bods) was started at CTC23 and picked up further at SODU2021, and continues now as an opportunity for the team to work together. You can see their progress at https://opendatascotland.github.io/the_od_bods/ which feeds the website at https://opendata.scot
 
 ### The Waste Wizards
 [Waste Wizards](https://github.com/CodeTheCity/ctc21_waste_wizards) was started at CTC21, and has continued regularly since then.
