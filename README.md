@@ -14,7 +14,7 @@ We had three teams working on a range of topics. All of them were continuations 
 [The OD Bods](https://github.com/CodeTheCity/the_od_bods) was started at CTC23 and picked up further at SODU2021, and continues now as an opportunity for the team to work together. You can see their progress at https://opendatascotland.github.io/the_od_bods/ which feeds the website at https://opendata.scot
 
 ### The Waste Wizards
-[Waste Wizards](https://github.com/CodeTheCity/ctc21_waste_wizards) was started at CTC21, and has continued regularly since then.
+[Waste Wizards](https://github.com/CodeTheCity/ctc21_waste_wizards) was started at CTC21, and has continued regularly since then. You can see and use their map for your waste recycling needs at https://openwastemap.uk
 
 ### Scottish Representation in Wikidata
 [Government agencies in Scotland](https://www.wikidata.org/wiki/Wikidata:WikiProject_Govdirectory/United_Kingdom#Agencies_in_Scotland_%28Q22%29) as part of the [GovDirectory](https://github.com/govdirectory) project is being worked on by a few people this weekend.
